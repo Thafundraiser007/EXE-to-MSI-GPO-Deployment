@@ -1,0 +1,32 @@
+# Installer files
+*.exe
+*.msi
+*.msix
+
+# Advanced Installer / packaging files
+*.aip
+*.rpk
+*.rpp
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+~$*
+
+# Build/output folders
+Output/
+Build/
+build/
+dist/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VMware
+*.vmem
+*.vmsn
+*.vmss
+*.nvram
+*.lck
