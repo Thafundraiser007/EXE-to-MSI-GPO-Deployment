@@ -1,4 +1,5 @@
 # EXE-to-MSI GPO Deployment
+<img width="478" height="286" alt="Screenshot 2026-08-18 003035" src="https://github.com/user-attachments/assets/4c5ec41c-924f-4123-bd38-5f6af913332c" />
 
 A Windows Server lab demonstrating **centralized application deployment with Active Directory Group Policy** in two stages:
 
